@@ -1,0 +1,11 @@
+.section1{
+width: 100%;
+font-size: 24px;
+
+}
+.section1 img{
+width: 100%;
+}
+section {
+    display: flex;
+}
